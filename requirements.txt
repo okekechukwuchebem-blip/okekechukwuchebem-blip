@@ -1,0 +1,32 @@
+# Password Automation and Security Framework Requirements
+
+# Core dependencies
+python>=3.8
+
+# Recommended for production use
+cryptography>=41.0.0          # Strong encryption support
+PyYAML>=6.0                   # Configuration management
+python-dotenv>=1.0.0          # Environment variable management
+
+# Optional but recommended
+requests>=2.31.0              # HTTP requests for API integrations
+sqlalchemy>=2.0.0             # Database abstraction
+psycopg2-binary>=2.9.0        # PostgreSQL support (if using DB backend)
+
+# Monitoring and logging
+python-json-logger>=2.0.0     # Structured JSON logging
+
+# Optional CLI tools
+click>=8.1.0                  # Command-line interface
+tabulate>=0.9.0              # Pretty table printing
+
+# Development dependencies
+pytest>=7.0.0                # Testing framework
+pytest-cov>=4.0.0            # Code coverage
+black>=23.0.0                # Code formatting
+flake8>=6.0.0                # Linting
+mypy>=1.0.0                  # Type checking
+
+# Documentation
+sphinx>=5.0.0                # Documentation generation
+sphinx-rtd-theme>=1.0.0      # ReadTheDocs theme
