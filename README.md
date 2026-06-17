@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+< HEAD >
 # Cybersecurity Journey
 
 Hi, I'm OXPHISHHUTER but my real name is OKEKE HILARY. I'm transitioning into cybersecurity with a focus on GRC, SOC Analysis, and Penetration Testing. My goal is to be a well-rounded security professional by 2027.
